@@ -1,0 +1,22 @@
+[Running] python -u "c:\Users\swapn\OneDrive\Documents\AI LAB\BFS.py"
+
+[Done] exited with code=0 in 0.273 seconds
+
+[Running] python -u "c:\Users\swapn\OneDrive\Documents\AI LAB\DFS.py"
+
+[Done] exited with code=0 in 0.217 seconds
+
+[Running] python -u "c:\Users\swapn\OneDrive\Documents\AI LAB\DFS.py"
+Enter the number of vertices: 
+[Done] exited with code=1 in 146.531 seconds
+
+[Running] python -u "c:\Users\swapn\OneDrive\Documents\AI LAB\Hill Climbing.py"
+Enter starting value: 
+[Done] exited with code=1 in 25.02 seconds
+
+[Running] python -u "c:\Users\swapn\OneDrive\Documents\AI LAB\Hill Climbing.py"
+Enter starting value: 
+[Done] exited with code=1 in 12.008 seconds
+
+[Running] python -u "c:\Users\swapn\OneDrive\Documents\AI LAB\Hill Climbing.py"
+Enter starting value: 
